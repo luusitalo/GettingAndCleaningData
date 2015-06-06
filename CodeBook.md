@@ -2,7 +2,9 @@ The tidydat.txt data set is derived from the Samsung data set available here:  h
 
 The data consists of a smartphone accelometer and gyroscope data from an experiment if which 30 volunteers performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. The smartphone accelerometer and gyroscope, captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.
 
-The tidydat.txt data file consists of the means per subject (volunteer) and activity type of mean and standard deviation measurements of 33 variables. For the explanation of these measurements, pleaserefer to the original data features_info.txt document.
+The tidydat.txt data file consists of the means per subject (volunteer) and activity type of mean and standard deviation measurements of 33 variables. 
+
+Please refer to the original data features_info.txt document for the explanation of these measurements.
 
 The included variables are:
 - activity: activity type. Value is one of [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
