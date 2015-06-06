@@ -5,7 +5,7 @@ The data consists of a smartphone accelometer and gyroscope data from an experim
 The tidydat.txt data file consists of the means per subject (volunteer) and activity type of mean and standard deviation measurements of 33 variables. For the explanation of these measurements, pleaserefer to the original data features_info.txt document.
 
 The included variables are:
-activity: activity type. Value is one of [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
+- activity: activity type. Value is one of [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
 - subject: the test subject (volunteer) identifier. Range 1:30.
 - tBodyAcc-mean()-X: mean (per subject and activity) of the means of tBodyAcc measurements along X axis
 - tBodyAcc-mean()-Y: mean (per subject and activity) of the means of tBodyAcc measurements along Y axis 
